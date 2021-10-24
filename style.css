@@ -1,0 +1,23 @@
+.name {
+    font-family: "Times New Roman", sans-serif;
+    color:black;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.name .recipe1 {
+    background-color:rgba(255, 72, 0, 0.6);
+}
+
+.name .recipe2 {
+    background-color:rgba(255, 72, 0, 0.80);
+}
+
+.name .recipe3 {
+    background-color:rgba(255, 72, 0, 1);
+}
+
+.intro {
+    font-size:32px;
+    color:royalblue;
+}
